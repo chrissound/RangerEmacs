@@ -1,5 +1,7 @@
 # Ranger / Emacs integration
 
+You'll need to install the `xdotool`.
+
 Copy `rangerCd.sh` to some location, make sure it is executable.
 
 Add this within your `(defun dotspacemacs/user-config ()` within your spacemacs / emacs config (`~/.spacemacs`), (make sure you modify the `path/to/rangerCd.sh` to the correct location:
